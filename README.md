@@ -1,1 +1,2 @@
 # Employee-Management-System
+The Employee Management System is a Java-based software application developed using IntelliJ IDEA as the IDE, MySQL for the database, and Swing for the user interface. The goal of this system is to efficiently manage employee records, track information, and handle essential HR tasks. This system streamlines employee data management, reduces manual errors, and provides a user-friendly platform for administrators
